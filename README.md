@@ -28,3 +28,5 @@
 | Строка 2, ячейка 1 | Текст | 456 |
 
 😄😄😄
+
+![Описание скриншота](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETfr2Dnk4jL805BJiIuCXmeUCmiXxT2G0suEvrAcubQ&s=10)
