@@ -29,4 +29,4 @@
 
 😄😄😄
 
-![Описание скриншота](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETfr2Dnk4jL805BJiIuCXmeUCmiXxT2G0suEvrAcubQ&s=10)
+![Описание скриншота](E:\5 семестр\ГДиММ\том ям.png)
